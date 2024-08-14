@@ -231,29 +231,6 @@
         ]
       },
     {
-      "id": 10,
-      "name": "Brazil",
-      "nocCode": "BRA",
-      "flagUrl": "",
-      "description": "Brazil",
-      "gold": 6,
-      "silver": 7,
-      "bronze": 9,
-      "total": 22,
-      "detail": [
-        {
-          "sportName": "Volleyball",
-          "rank": 1,
-          "medalsUrl": "🥇"
-        },
-        {
-          "sportName": "Football",
-          "rank": 2,
-          "medalsUrl": "🥈"
-        }
-      ]
-    },
-    {
       "id": 11,
       "name": "South Korea",
       "nocCode": "KOR",
