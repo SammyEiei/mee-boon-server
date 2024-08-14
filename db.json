@@ -229,56 +229,11 @@
             "medalsUrl": "🥈"
           }
         ]
-      },
-      {
-        "id": 11,
-        "name": "South Korea",
-        "nocCode": "KOR",
-        "flagUrl": "🇰🇷",
-        "description": "South Korea",
-        "gold": 8,
-        "silver": 5,
-        "bronze": 6,
-        "total": 19,
-        "detail": [
-          {
-            "sportName": "Archery",
-            "rank": 3,
-            "medalsUrl": "🥉"
-          },
-          {
-            "sportName": "Taekwondo",
-            "rank": 4,
-            "medalsUrl": "❌"
-          }
-        ]
-      },
-      {
-        "id": 12,
-        "name": "Netherlands",
-        "nocCode": "NED",
-        "flagUrl": "🇳🇱",
-        "description": "Netherlands",
-        "gold": 8,
-        "silver": 6,
-        "bronze": 7,
-        "total": 21,
-        "detail": [
-          {
-            "sportName": "Speed Skating",
-            "rank": 5,
-            "medalsUrl": "❌"
-          },
-          {
-            "sportName": "Cycling",
-            "rank": 4,
-            "medalsUrl": "❌"
-          }
+      }
         ]
       }
 
-        ]
-      }
+      
     
   
   
