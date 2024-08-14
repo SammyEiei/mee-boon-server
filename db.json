@@ -4,7 +4,7 @@
         "id": 1,
         "name": "United States",
         "nocCode": "USA",
-        "flagUrl": "",
+        "flagUrl": "🇺🇸",
         "description": "The United States of America",
         "gold": 20,
         "silver": 15,
@@ -14,12 +14,12 @@
           {
             "sportName": "Swimming",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Track and Field",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -27,7 +27,7 @@
         "id": 2,
         "name": "China",
         "nocCode": "CHN",
-        "flagUrl": "",
+        "flagUrl": "🇨🇳",
         "description": "The People's Republic of China",
         "gold": 18,
         "silver": 20,
@@ -37,12 +37,12 @@
           {
             "sportName": "Diving",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Gymnastics",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -50,7 +50,7 @@
         "id": 3,
         "name": "Japan",
         "nocCode": "JPN",
-        "flagUrl": "",
+        "flagUrl": "🇯🇵",
         "description": "Japan",
         "gold": 12,
         "silver": 10,
@@ -60,12 +60,12 @@
           {
             "sportName": "Judo",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Wrestling",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -73,7 +73,7 @@
         "id": 4,
         "name": "Australia",
         "nocCode": "AUS",
-        "flagUrl": "",
+        "flagUrl": "🇦🇺",
         "description": "Australia",
         "gold": 10,
         "silver": 15,
@@ -83,12 +83,12 @@
           {
             "sportName": "Swimming",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Rowing",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -96,7 +96,7 @@
         "id": 5,
         "name": "Great Britain",
         "nocCode": "GBR",
-        "flagUrl": "",
+        "flagUrl": "🇬🇧",
         "description": "Great Britain",
         "gold": 13,
         "silver": 8,
@@ -106,20 +106,20 @@
           {
             "sportName": "Cycling",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Rowing",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
-        ]
+        ]🥉
       },
       {
         "id": 6,
         "name": "Germany",
         "nocCode": "GER",
-        "flagUrl": "",
+        "flagUrl": "🇩🇪",
         "description": "Germany",
         "gold": 14,
         "silver": 12,
@@ -128,13 +128,13 @@
         "detail": [
           {
             "sportName": "Athletics",
-            "rank": 1,
-            "medalsUrl": ""
+            "rank": 3,
+            "medalsUrl": "🥉"
           },
           {
             "sportName": "Swimming",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -142,7 +142,7 @@
         "id": 7,
         "name": "France",
         "nocCode": "FRA",
-        "flagUrl": "",
+        "flagUrl": "🇫🇷",
         "description": "France",
         "gold": 11,
         "silver": 10,
@@ -152,12 +152,12 @@
           {
             "sportName": "Fencing",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Cycling",
-            "rank": 2,
-            "medalsUrl": ""
+            "rank": 3,
+            "medalsUrl": "🥉"
           }
         ]
       },
@@ -165,7 +165,7 @@
         "id": 8,
         "name": "Italy",
         "nocCode": "ITA",
-        "flagUrl": "",
+        "flagUrl": "🇮🇹",
         "description": "Italy",
         "gold": 10,
         "silver": 8,
@@ -175,12 +175,12 @@
           {
             "sportName": "Shooting",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Rowing",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -188,7 +188,7 @@
         "id": 9,
         "name": "Canada",
         "nocCode": "CAN",
-        "flagUrl": "",
+        "flagUrl": "🇨🇦",
         "description": "Canada",
         "gold": 7,
         "silver": 11,
@@ -198,12 +198,12 @@
           {
             "sportName": "Ice Hockey",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Swimming",
-            "rank": 2,
-            "medalsUrl": ""
+            "rank": 3,
+            "medalsUrl": "🥉"
           }
         ]
       },
@@ -211,7 +211,7 @@
         "id": 10,
         "name": "Brazil",
         "nocCode": "BRA",
-        "flagUrl": "",
+        "flagUrl": "🇧🇷",
         "description": "Brazil",
         "gold": 6,
         "silver": 7,
@@ -221,12 +221,12 @@
           {
             "sportName": "Volleyball",
             "rank": 1,
-            "medalsUrl": ""
+            "medalsUrl": "🥇"
           },
           {
             "sportName": "Football",
             "rank": 2,
-            "medalsUrl": ""
+            "medalsUrl": "🥈"
           }
         ]
       },
@@ -234,7 +234,7 @@
         "id": 11,
         "name": "South Korea",
         "nocCode": "KOR",
-        "flagUrl": "",
+        "flagUrl": "🇰🇷",
         "description": "South Korea",
         "gold": 8,
         "silver": 5,
@@ -243,13 +243,13 @@
         "detail": [
           {
             "sportName": "Archery",
-            "rank": 1,
-            "medalsUrl": ""
+            "rank": 3,
+            "medalsUrl": "🥉"
           },
           {
             "sportName": "Taekwondo",
-            "rank": 2,
-            "medalsUrl": ""
+            "rank": 4,
+            "medalsUrl": "❌"
           }
         ]
       },
@@ -257,7 +257,7 @@
         "id": 12,
         "name": "Netherlands",
         "nocCode": "NED",
-        "flagUrl": "",
+        "flagUrl": "🇳🇱",
         "description": "Netherlands",
         "gold": 8,
         "silver": 6,
@@ -266,13 +266,13 @@
         "detail": [
           {
             "sportName": "Speed Skating",
-            "rank": 1,
-            "medalsUrl": ""
+            "rank": 5,
+            "medalsUrl": "❌"
           },
           {
             "sportName": "Cycling",
-            "rank": 2,
-            "medalsUrl": ""
+            "rank": 4,
+            "medalsUrl": "❌"
           }
         ]
       }
