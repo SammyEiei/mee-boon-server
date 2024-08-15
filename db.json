@@ -304,7 +304,7 @@
       "id": 14,
       "name": "Spain",
       "nocCode": "ESP",
-      "flagUrl": "ttps://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+      "flagUrl": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
       "description": "Spain",
       "gold": 6,
       "silver": 8,
