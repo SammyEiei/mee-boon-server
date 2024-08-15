@@ -96,7 +96,8 @@
         "id": 5,
         "name": "Great Britain",
         "nocCode": "GBR",
-        "flagUrl": "🇬🇧",
+        "flagUrl": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ENGLAND.svg"
+ ",
         "description": "Great Britain",
         "gold": 13,
         "silver": 8,
