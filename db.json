@@ -41,8 +41,8 @@
           },
           {
             "sportName": "Gymnastics",
-            "rank": 2,
-            "medalsUrl": "🥈"
+            "rank": 4,
+            "medalsUrl": "https://emojicdn.elk.sh/%E2%9D%8C"
           }
         ]
       },
@@ -314,7 +314,7 @@
         {
           "sportName": "Basketball",
           "rank": 5,
-          "medalsUrl": " "
+          "medalsUrl": "https://emojicdn.elk.sh/%E2%9D%8C "
         },
         {
           "sportName": "Football",
@@ -337,7 +337,7 @@
         {
           "sportName": "Wrestling",
           "rank": 7,
-          "medalsUrl": " "
+          "medalsUrl": "https://emojicdn.elk.sh/%E2%9D%8C "
         },
         {
           "sportName": "Hockey",
