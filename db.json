@@ -13,13 +13,11 @@
       "detail": [
         {
           "sportName": "Swimming",
-          "rank": 1,
-          "medalsUrl": "🥇"
+          "rank": 1,"medalsUrl": "🥇"
         },
         {
           "sportName": "Track and Field",
-          "rank": 2,
-          "medalsUrl": "🥈"
+          "rank": 2,"medalsUrl": "🥈"
         }
       ]
     },
